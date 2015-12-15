@@ -12,8 +12,8 @@ Please refer to the [wiki](https://github.com/jantoniucci/banking-api/wiki) to s
 
 ## Contact the team
 
-[New features requests culd be posted at Issue tracker](https://github.com/jantoniucci/banking-api/issues)
-[Suscribe to the users mailing list to be updated](https://tbd)
+* [New features requests culd be posted at Issue tracker](https://github.com/jantoniucci/banking-api/issues)
+* [Suscribe to the users mailing list to be updated](https://tbd)
 
 ## Status
 
