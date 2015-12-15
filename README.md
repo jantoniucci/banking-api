@@ -25,9 +25,9 @@ In ac est mi. Praesent nunc leo, semper sed lacus sit amet, egestas dictum ante.
 
 | Environment | Version | Status  |
 |-------------|---------|---------|
-| Development | 1.213   | Running |
-| Integration | 1.211   | Running |
-| Production  | 1.204   | Running |
+| Development | 1.213 [see changelog](https://github.com/jantoniucci/banking-api/wiki/Changelog)  | Running |
+| Integration | 1.211 [see changelog](https://github.com/jantoniucci/banking-api/wiki/Changelog)  | Running |
+| Production  | 1.204 [see changelog](https://github.com/jantoniucci/banking-api/wiki/Changelog)  | Running |
 
 ## License
 
